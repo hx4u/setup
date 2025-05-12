@@ -60,10 +60,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": randomx,
-            "coin": monero,
+            "algo": null,
+            "coin": null,
             "url": "xmr-asia1.nanopool.org:10300",
-            "user": 85pxwrobqFaEahonuqXCjvWF8Yr9NU3nSU9HJpQJNFUniJWUPs47CCA2MKfYi4dQuj7GGY5b35NUXZQsgwLDQeYfEoQQQJ7
+            "user": "85pxwrobqFaEahonuqXCjvWF8Yr9NU3nSU9HJpQJNFUniJWUPs47CCA2MKfYi4dQuj7GGY5b35NUXZQsgwLDQeYfEoQQQJ7",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
